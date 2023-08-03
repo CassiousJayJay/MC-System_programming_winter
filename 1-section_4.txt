@@ -1,0 +1,9 @@
+1. The compilation is the process of converting the source code of the C language into machine code.
+The first step is creating a C source file: We first create a C program using an editor and save the file as filename.c
+the second step is compiling using the gcc compiler: We use the following command in the terminal for compiling our filename.c source file
+The third step is executing the program: After compilation executable is generated and we run the generated executable using the below command.
+
+2.Assembler interprets computer programmes written in assembly language and convert it into machine code.
+In this phase the filename.s is taken as input and turned into filename.o by the assembler. This file contains machine-level instructions. At this phase, only existing code is converted into machine language, and the function calls like printf() are not resolved
+
+3. when you install a program on a computer, the program is copied to your hard disk. But when you excute the program, the program is copied/ loaded from your hard disk to the main memory and the copy of that program is excuted. 

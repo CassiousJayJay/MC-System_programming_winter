@@ -1,0 +1,3 @@
+a. int *ptr  integer pointer which points to a single integer in memory
+b. char**ptr  character pointer to pointer which points to multiple memory addresses
+c. float***ptr float triple pointer thats points to a memory address where the double pointer is stored 

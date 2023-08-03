@@ -1,0 +1,7 @@
+#!/usr/bin/perl
+
+a. * is used to match 0 or more times
+b. + is used to match 1 or more items
+c. ?  used for shortest matches 
+d. (...) storing/ grouping items
+e. [a-z] matches any character from a to z in the ASCII code
